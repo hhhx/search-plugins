@@ -8,6 +8,7 @@ Here you can find unofficial search engine plugins for qBittorrent that are made
 * If you wrote one, you're welcome to add it to these tables. Please keep the list sorted by <code>Search Engine</code> name.
 * '''If you experience issues with any of the plugins posted here, please report to the author directly.''' In case the author is unresponsive, you can try to fix it yourself. Then you can edit this wiki page and update the link to your fixed plugin.
 * The plugins shown as ✖ or ❗ will result in the slowdown and malfunction of other plugins as well, hence the use of these plugins is strongly discouraged.
+* Avoid using Google service (https://www.google.com/s2/favicons) for fetching favicons as it will (potentially) notify them your intention.
 
 ⚠️ We removed support for Python 2. Please upgrade to Python 3 to continue using the search function.
 The minimum supported Python version (across all platforms) is specified at [https://github.com/qbittorrent/qBittorrent/blob/master/INSTALL#L21-L23 here].
@@ -622,7 +623,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [[https://www.google.com/s2/favicons?domain=milkie.cc]] [https://milkie.cc Milkie]
 | [https://github.com/tolotp/qbittorrent-search-plugins-de-busqueda tolotp]
 | 1.0
-| 10/Mar/2026 
+| 10/Mar/2026
 | [https://raw.githubusercontent.com/tolotp/qbittorrent-search-plugins-de-busqueda/refs/heads/main/Plugins/milkie.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]<br /> [https://github.com/tolotp/qbittorrent-search-plugins-de-busqueda/wiki/Guia-plugin-Milkie [[https://github.com/Pireo/hello-world/blob/master/Help%20book.gif]] ]
 | ✔️ qbt 4.5.x+ / python 3.9.x+<br />  ❗ Pls read the guide
 |-
