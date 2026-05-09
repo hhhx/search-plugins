@@ -491,7 +491,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/BurningMop/qBittorrent-Search-Plugins/refs/heads/main/traht.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.6.x / python 3.9.x
 |-
-| [[https://www.google.com/s2/favicons?domain=uindex.org#.png]] [https://uindex.org/ UIndex}
+| [[https://www.google.com/s2/favicons?domain=uindex.org#.png]] [https://uindex.org/ UIndex]
 | [https://github.com/tolotp/qbittorrent-search-plugins-de-busqueda tolotp]
 | 1.0
 | 05/Mar/2026
