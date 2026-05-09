@@ -59,7 +59,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/AlaaBrahim/qBitTorrent-animetosho-search-plugin/main/animetosho.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.5.x / python 3.x.x
 |-
-| [[https://apachetorrent.com/icon.png]] [https://apachetorrent.com/ apachetorrent.com]
+| [[https://apachetorrent.com/icon.png]] [https://apachetorrent.com/ Apache Torrent]
 | [https://github.com/bebetoh bebetoh]
 | 1.0.0
 | 05/Apr<br />2026
@@ -199,8 +199,8 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://github.com/tolotp/qbittorrent-search-plugins-de-busqueda tolotp]
 | 1.0
 | 10/Mar/2026
-| [https://raw.githubusercontent.com/tolotp/qbittorrent-search-plugins-de-busqueda/refs/heads/main/Plugins/goggames.py] [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
-| ✔️ qbt 4.5.x+ / python 3.9.x+<br />  ❗ Pls read this [https://github.com/tolotp/qbittorrent-search-plugins-de-busqueda/wiki/Plugin-gog%E2%80%90games-(ESPA%C3%91OL-%7C-ENGLISH) INFO]
+| [https://raw.githubusercontent.com/tolotp/qbittorrent-search-plugins-de-busqueda/refs/heads/main/Plugins/goggames.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
+| ✔️ qbt 4.5.x+ / python 3.9.x+<br />❗ Pls read this [https://github.com/tolotp/qbittorrent-search-plugins-de-busqueda/wiki/Plugin-gog%E2%80%90games-(ESPA%C3%91OL-%7C-ENGLISH) INFO]
 |-
 | [[https://github.com/LightDestory/qBittorrent-Search-Plugins/raw/master/src/engines/kickasstorrents.png]] [https://katcr.to/  Kickass Torrent]
 | [https://github.com/LightDestory/qBittorrent-Search-Plugins LightDestory]
@@ -329,7 +329,7 @@ The minimum supported Python version (across all platforms) is specified at [htt
 | [https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/pirateiro.py [[https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif]] ]
 | ✔ qbt 4.3.x / python 3.8.5
 |-
-| [[https://redetorrent.com/icone_site.png]] [https://redetorrent.com/ redetorrent.com]
+| [[https://redetorrent.com/icone_site.png]] [https://redetorrent.com/ Rede Torrent]
 | [https://github.com/bebetoh bebetoh]
 | 1.0.0
 | 05/Apr<br />2026
