@@ -1,0 +1,14 @@
+{
+  "name": "qbittorrent/search-plugins/wiki",
+  "description": "qBittorrent search-plugins Wiki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qbittorrent/search-plugins.git"
+  },
+  "scripts": {
+    "lint": "wikilint wiki/*.mediawiki --strict --lint-config wikilint.json"
+  },
+  "devDependencies": {
+    "wikilint": "*"
+  }
+}

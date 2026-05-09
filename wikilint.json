@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "lonely-bracket": [2, { "double": 0 }],
+        "tag-like": [2, { "img": 0 }]
+    }
+}

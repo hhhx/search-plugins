@@ -1,4 +1,4 @@
-name: CI
+name: CI - Plugins
 
 on:
   pull_request:
