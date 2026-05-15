@@ -29,7 +29,6 @@ Please keep the list sorted alphabetically by `Site` column
 | dontorrent.org | NO | N/A | ~Inglés / Castellano~ moved to tomadivx.net |
 | ex-torrenty.org | NO | N/A | |
 | extremlymtorrents.ws | NO | N/A | |
-| eztv.io | NO | N/A | This is no longer working. Use eztv.it instead. |
 | gay-torrents.net | NO | N/A | LGBT Content, requires login |
 | GranTorrent.eu | NO | N/A | ~Inglés / Latino / Castellano~ This is no longer working |
 | idope.se | NO | N/A |Public, has hard to find stuff |
